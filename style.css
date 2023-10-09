@@ -50,3 +50,13 @@ a {
     font-size: 18px;
     font-weight: 300;
 }
+
+button {
+    background-color: #3882F6;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 8px 32px;
+    border-radius: 8px;
+}
