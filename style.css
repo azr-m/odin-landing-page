@@ -5,3 +5,9 @@ body {
 .container-one {
     background-color: #1f2937;
 }
+
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
