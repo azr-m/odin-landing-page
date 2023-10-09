@@ -36,7 +36,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 64px 100px 64px 100px;
+    padding: 64px 100px 128px 100px;
 }
 
 .hero-text #main-text {
