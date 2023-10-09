@@ -39,6 +39,14 @@ a {
     padding: 64px 200px 128px 200px;
 }
 
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items:flex-start;   
+    gap: 12px;
+}
+
 .hero-text #main-text {
     color: #F9FAF8;
     font-size: 48px;
