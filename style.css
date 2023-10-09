@@ -27,7 +27,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #e5e7eb;
+    color: #E5E7EB;
     font-size: 18px;
     font-weight: 300;
 }
@@ -43,4 +43,10 @@ a {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: bolder;
+}
+
+.hero-text #sub-text {
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 300;
 }
