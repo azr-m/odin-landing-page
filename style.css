@@ -38,3 +38,9 @@ a {
     align-items: center;
     padding: 32px 100px 64px 100px;
 }
+
+.hero-text #main-text {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+}
