@@ -68,3 +68,8 @@ button {
     padding: 8px 32px;
     border-radius: 8px;
 }
+
+img {
+    width: 450px;
+    height: auto;
+}
