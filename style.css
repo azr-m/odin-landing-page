@@ -149,6 +149,11 @@ img {
     padding: 44px 100px;
     border-radius: 8px;
     display: flex;
+    justify-content: space-between;
+}
+
+.text-action {
+    display: flex;
     flex-direction: column;
 }
 
@@ -162,9 +167,6 @@ img {
     color: #E5E7EB;
     font-size: 18px;
     font-weight: 300;
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
 }
 
 #button-action {
